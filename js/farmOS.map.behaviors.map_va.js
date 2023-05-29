@@ -33,7 +33,7 @@
       ];
 
       basemaps.forEach(function(basemap) {
-        // Add San Juan Islands Basemaps
+        // Add Virginia Basemaps
         var opts = {
           title: "VGIN " + basemap.name.split('/')[1],
           url: 'https://gismaps.vdem.virginia.gov/arcgis/rest/services/' + basemap.name + '/' + basemap.type,
