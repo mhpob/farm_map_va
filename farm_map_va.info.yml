@@ -1,5 +1,5 @@
-name: Farm Map San Juan Islands
-description: San Juan Islands map layers for farmOS maps.
+name: Farm Map Virginia
+description: Virginia map layers for farmOS maps.
 type: module
 package: farmOS Contrib
 core_version_requirement: ^9

@@ -1,0 +1,5 @@
+map_va:
+  js:
+    js/farmOS.map.behaviors.map_va.js: { }
+  dependencies:
+    - farm_map/farmOS-map

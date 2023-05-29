@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_map_va
+id: map_va
+label: Farm Map Virginia
+description: 'Displays Virginia layers.'
+library: 'farm_map_va/map_va'
+settings: {  }

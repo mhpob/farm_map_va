@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\farm_map_sjc\EventSubscriber;
+namespace Drupal\farm_map_va\EventSubscriber;
 
 use Drupal\farm_map\Event\MapRenderEvent;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;
@@ -31,7 +31,7 @@ class MapRenderEventSubscriber implements EventSubscriberInterface {
    * @throws \Drupal\Component\Plugin\Exception\PluginNotFoundException
    */
   public function onMapRender(MapRenderEvent $event) {
-    $event->addBehavior('map_sjc');
+    $event->addBehavior('map_va');
   }
 
 }

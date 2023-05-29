@@ -1,5 +1,0 @@
-map_sjc:
-  js:
-    js/farmOS.map.behaviors.map_sjc.js: { }
-  dependencies:
-    - farm_map/farmOS-map

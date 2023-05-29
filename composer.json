@@ -1,18 +1,18 @@
 {
-  "name": "symbioquine/farm_map_sjc",
-  "description": "San Juan Islands map base layers for farmOS",
+  "name": "mhpob/farm_map_va",
+  "description": "Virginia map base layers for farmOS",
   "type": "drupal-module",
-  "homepage": "https://github.com/symbioquine/farm_map_sjc",
+  "homepage": "https://github.com/mhpob/farm_map_va",
   "authors": [
     {
-      "name": "Symbioquine",
-      "homepage": "https://github.com/symbioquine",
+      "name": "MOB",
+      "homepage": "mhpob/farm_map_va",
       "role": "Maintainer"
     }
   ],
   "support": {
-    "issues": "https://github.com/symbioquine/farm_map_sjc/issues",
-    "source": "https://github.com/symbioquine/farm_map_sjc"
+    "issues": "https://github.com/mhpob/farm_map_va/issues",
+    "source": "https://github.com/mhpob/farm_map_va"
   },
   "license": "GPL-3.0-or-later",
   "minimum-stability": "dev"
