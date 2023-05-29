@@ -29,7 +29,7 @@
         { "name": "VBMP_Imagery/VBMP2021_WGS", "type": "MapServer"},
         { "name": "VBMP_Imagery/VBMP2022_Infrared_WGS", "type": "MapServer"},
         { "name": "VBMP_Imagery/VBMP2022_WGS", "type": "MapServer"},
-        { "name": "VBMP_Imagery/MostRecentImagery_WGS", "type": "MapServer" },
+        { "name": "VBMP_Imagery/MostRecentImagery_WGS", "type": "MapServer" }
       ];
 
       basemaps.forEach(function(basemap) {
