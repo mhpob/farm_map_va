@@ -4,7 +4,6 @@
 
       // From https://gismaps.vdem.virginia.gov/arcgis/rest/services/VBMP_Imagery?f=pjson
       var basemaps = [
-        { "name": "VBMP_Imagery/MostRecentImagery_WGS", "type": "MapServer" },
         { "name": "VBMP_Imagery/VBMP2002_WGS", "type": "MapServer" },
         { "name": "VBMP_Imagery/VBMP2006_2007_WGS", "type": "MapServer" },
         { "name": "VBMP_Imagery/VBMP2006_WGS", "type": "MapServer" },
@@ -29,7 +28,8 @@
         { "name": "VBMP_Imagery/VBMP2021_Infrared_WGS", "type": "MapServer"},
         { "name": "VBMP_Imagery/VBMP2021_WGS", "type": "MapServer"},
         { "name": "VBMP_Imagery/VBMP2022_Infrared_WGS", "type": "MapServer"},
-        { "name": "VBMP_Imagery/VBMP2022_WGS", "type": "MapServer"}
+        { "name": "VBMP_Imagery/VBMP2022_WGS", "type": "MapServer"},
+        { "name": "VBMP_Imagery/MostRecentImagery_WGS", "type": "MapServer" },
       ];
 
       basemaps.forEach(function(basemap) {
